@@ -1,0 +1,21 @@
+Variables
+
+Yo describiría como una caja donde puedes almacenar datos que planeas usar para la elaboración de la lógica de tu aplicación. Puedes almacenar en ellas 
+cualquier tipo de dato existente en JavaScript. (String,number,boolean,function,object,variable,etc)-
+
+Strings
+
+Es básicamente texto, que para que sea interpretado como tal por tu editor de texto, este deberá estar entre comillas.
+
+Funciones
+
+Son capsulas de código que te da una respuesta. La cual puede varias gracias a que se le puede mandar argumentos para una respuesta dinámica.
+
+Declaraciones
+
+Estas son fundamentales para la lógica de tu aplicación. Estás condicionales te permiten dinamizar el comportamiento de tu aplicación basandose en si
+una declaración es verdadera o falsa. Hay diferentes condicionales en JavaScript, y cada uno se comporta de manera diferente. (for,while,if,switch,etc)
+
+Booleanos 
+
+Este es un tipo de variable que solo puede almacenar dos respuestas: true ó false. Este se usa para determinar estados.
